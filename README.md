@@ -1,4 +1,4 @@
  Name:Shadman Shakib 
- Tile: Calculator
+ Title: Calculator
 
   Description: It will calcutate basic math. 
