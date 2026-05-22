@@ -1,0 +1,1 @@
+This project is a calculator. What can do basic math like add,sub,div,mul
