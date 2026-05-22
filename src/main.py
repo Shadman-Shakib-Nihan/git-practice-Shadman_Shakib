@@ -6,3 +6,4 @@ print(date.today())
 import utils
 print(utils.add(5, 3))
 print(utils.subtract(5, 3))
+print(utils.multiply(5, 3))
